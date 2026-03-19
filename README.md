@@ -11,3 +11,9 @@ There are several installation options available:
 Для установки доступно несколько вариантов:
 1. Установить с Codeberg [rolling-релиз](https://codeberg.org/Agent19872/thee-rus/raw/branch/rolling/thee-rus-latest.zip)
 2. Установить с Modrinth стабильный релиз (пока недоступно)
+
+## Screenshots/Скриншоты:
+[Guidebook role translation](./screenshots/Guidebook role translation.png)
+[Unfinished guidebook role translatio](./screenshots/Unfinished guidebook role translation.png)
+[Pause Menu Screenshot (plus mods: Essential and Figura)](./screenshots/Pause Menu Screenshot (plus mods: Essential and Figura).png)
+[ame Mode Settings Screenshot(./screenshots/Game Mode Settings Screenshot.png)
