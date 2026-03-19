@@ -1,21 +1,13 @@
 ## EN:
 This repository contains an unofficial Russian translation of the [The Harpy Express: Extended](https://modrinth.com/modpack/the-harpy-express-extended) modpack.
 
-To install it, you need to:
-
-1. Click on "More actions" button - ![More actions](./screenshots/more_actions.png)
-
-2. Then click on "Download ZIP" - ![Download ZIP](./screenshots/download_zip.png)
-
-3. Put the ZIP archive into the `resourcepacks` folder
+There are several installation options available:
+1. Install the Codeberg [rolling release](https://codeberg.org/Agent19872/thee-rus/raw/branch/rolling/thee-rus-latest.zip)
+2. Install the stable release from Modrinth (currently unavailable)
 
 ## RU:
 Этот репозиторий неофициального перевода сборки [The Harpy Express: Extended](https://modrinth.com/modpack/the-harpy-express-extended) на русский язык.
 
-Чтобы установить его вам нужно:
-
-1. Нажать на кнопку "Ещё действия" - ![Ещё действия](./screenshots/more_actions.png)
-
-2. После нажать на "Скачать ZIP" - ![Скачать ZIP](./screenshots/download_zip_ru.png)
-
-3. Закинуть zip архив в папку `resourcepacks`
+Для установки доступно несколько вариантов:
+1. Установить с Codeberg [rolling-релиз](https://codeberg.org/Agent19872/thee-rus/raw/branch/rolling/thee-rus-latest.zip)
+2. Установить с Modrinth стабильный релиз (пока недоступно)
