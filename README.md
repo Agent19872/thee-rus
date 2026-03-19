@@ -8,7 +8,7 @@ To install it, you need to:
 
 	3) Put the ZIP archive into the `resourcepacks` folder
 
-[RU]: Этот репозиторий неофициального перевода сбокри (The Harpy Express: Extended)[https://modrinth.com/modpack/the-harpy-express-extended] на русский язык.
+[RU]: Этот репозиторий неофициального перевода сбокри [The Harpy Express: Extended](https://modrinth.com/modpack/the-harpy-express-extended) на русский язык.
 
 Чтобы установить его вам нужно:
 
