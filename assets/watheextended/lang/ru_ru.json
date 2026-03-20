@@ -488,5 +488,23 @@
   "text.watheextended.disabled": "Отключено",
   "text.watheextended.enabled": "Включено",
   "text.watheextended.off": "ВЫКЛ",
-  "text.watheextended.on": "ВКЛ"
+  "text.watheextended.on": "ВКЛ",
+  
+  "gui.watheextended.config.category.options.group.roles_options.label.bellringer": "Звонарь",
+  "gui.watheextended.config.category.options.group.roles_options.label.bodymaker": "Телодел",
+  "gui.watheextended.config.category.options.group.roles_options.label.cleaner": "Чистильщик",
+  "gui.watheextended.config.category.options.group.roles_options.label.cook": "Повар",
+  "gui.watheextended.config.category.options.group.roles_options.label.detective": "Детектив",
+  "gui.watheextended.config.category.options.group.roles_options.label.dreamer": "Сновидец",
+  "gui.watheextended.config.category.options.group.roles_options.label.drugmaker": "Отравитель",
+  "gui.watheextended.config.category.options.group.roles_options.label.hunter": "Охотник",
+  "gui.watheextended.config.category.options.group.roles_options.label.judge": "Судья",
+  "gui.watheextended.config.category.options.group.roles_options.label.kidnapper": "Похититель",
+  "gui.watheextended.config.category.options.group.roles_options.label.licensedvillain": "Лицензированный злодей",
+  "gui.watheextended.config.category.options.group.roles_options.label.physician": "Врач",
+  "gui.watheextended.config.category.options.group.roles_options.label.robot": "Робот",
+
+  "gui.watheextended.config.category.options.group.modifiers_options.label.magnate": "Магнат",
+  "gui.watheextended.config.category.options.group.modifiers_options.label.taskmaster": "Надсмотрщик",
+  "gui.watheextended.config.category.options.group.modifiers_options.label.violator": "Нарушитель"
 }
