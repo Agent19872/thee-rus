@@ -15,7 +15,7 @@ There are several installation options available:
 ## Screenshots/Скриншоты:
 ![Guidebook role translation](./screenshots/guidebook-role-translation.png)
 
-![Unfinished guidebook role translation](./screenshots/unfinished-guidebook-role-translation.png)
+![Guidebook modifiers translation](./screenshots/guidebook-modifiers-translation.png)
 
 ![Pause Menu Screenshot (plus mods: Essential and Figura)](./screenshots/pause-menu-screenshot-essential-figura.png)
 
