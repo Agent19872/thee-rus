@@ -488,20 +488,5 @@
   "text.watheextended.disabled": "Отключено",
   "text.watheextended.enabled": "Включено",
   "text.watheextended.off": "ВЫКЛ",
-  "text.watheextended.on": "ВКЛ",
-  "gui.watheextended.guidebook.role.noellesroles:swapper": "Свопер",
-  "gui.watheextended.guidebook.role.noellesroles:morphling": "Морфлинг",
-  "gui.watheextended.guidebook.role.noellesroles:phantom": "Фантом",
-  "gui.watheexteded.guidebook.role.noellesroles:conductor": "Проводник",
-  "gui.watheexteded.guidebook.role.noellesroles:bartender": "Бармен",
-  "gui.watheexteded.guidebook.role.noellesroles:noisemaker": "Баламут",
-  "gui.watheexteded.guidebook.role.noellesroles:voodoo": "Вуду",
-  "gui.watheexteded.guidebook.role.noellesroles:trapper": "Ловчий",
-  "gui.watheexteded.guidebook.role.noellesroles:conorer": "Конорер",
-  "gui.watheexteded.guidebook.role.noellesroles:recaller": "Возвращатель",
-  "gui.watheexteded.guidebook.role.noellesroles:mimic": "Мимик",
-  "gui.watheexteded.guidebook.role.noellesroles:jester": "Шут",
-  "gui.watheexteded.guidebook.role.noellesroles:executioner": "Палач",
-  "gui.watheexteded.guidebook.role.noellesroles:vulture": "Канибал",
-  "guidebook.role.noellesroles.guesser": "Угадыватель"
+  "text.watheextended.on": "ВКЛ"
 }
