@@ -30,12 +30,12 @@
   "hud.voodoo.player_deaths_only": "Смерти Вуду должны быть вызваны другим игроком!",
 
   "announcement.goals.noellesroles.swapper": "Меняйся местами с другими игроками.",
-  "announcement.role.noellesroles.swapper": "Меняла",
+  "announcement.role.noellesroles.swapper": "Свопер",
   "hud.swapper.first_player_selection": "Выбери первого игрока для обмена",
   "hud.swapper.second_player_selection": "Выбери второго игрока для обмена",
 
   "announcement.goals.noellesroles.coroner": "Получай информацию из мёртвых тел.",
-  "announcement.role.noellesroles.coroner": "Судмедэксперт",
+  "announcement.role.noellesroles.coroner": "Патолог",
   "hud.coroner.sanity_requirements": "Для использования способности требуется 50% рассудка",
   "hud.coroner.death_info": "Умер %s сек. назад от ",
   "hud.coroner.role_info": "Его роль была ",
@@ -51,18 +51,18 @@
   "announcement.role.noellesroles.recaller": "Возвращатель",
 
   "announcement.goals.noellesroles.guesser": "Угадывай роли мирных, чтобы мгновенно убивать их!",
-  "announcement.role.noellesroles.guesser": "Угадчик",
+  "announcement.role.noellesroles.guesser": "Разоблачитель",
 
   "announcement.goals.noellesroles.mimic": "Для других убийц ты выглядишь как сообщник убийцы!",
   "announcement.role.noellesroles.mimic": "Мимик",
 
   "announcement.modifier.noellesroles.tiny": "Кроха",
   "announcement.modifier.noellesroles.chameleon": "Хамелеон",
-  "announcement.modifier.noellesroles.guesser": "Угадчик",
+  "announcement.modifier.noellesroles.guesser": "Разоблачитель",
   "announcement.modifier.noellesroles.graverobber": "Могильщик",
-  "announcement.modifier.noellesroles.feather": "Пёрышко",
+  "announcement.modifier.noellesroles.feather": "Пушинка",
 
-  "announcement.goals.noellesroles.better_vigilante": "Ээээээээээээээээ",
+  "announcement.goals.noellesroles.better_vigilante": "Ээээээээээээээээ...",
   "announcement.role.noellesroles.better_vigilante": "Лучший линчеватель",
 
   "announcement.goals.noellesroles.vulture": "Ешь трупы, чтобы превратиться в убийцу.",
