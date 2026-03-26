@@ -230,7 +230,7 @@
   "gui.watheextended.config.category.options.group.roles_options.opt.bellringer.price": "Цена способности",
   "gui.watheextended.config.category.options.group.roles_options.opt.bellringer.price.desc": "Настройка цены способности Звонаря.",
   "gui.watheextended.config.category.options.group.roles_options.opt.bodymaker.cooldown": "Перезарядка способности",
-  "gui.watheextended.config.category.options.group.roles_options.opt.bodymaker.cooldown.desc": "Настройка перезарядки способности Телодела.",
+  "gui.watheextended.config.category.options.group.roles_options.opt.bodymaker.cooldown.desc": "Настройка перезарядки способности Манекенщик.",
   "gui.watheextended.config.category.options.group.roles_options.opt.bodymaker.fakerole": "Может создавать фальшивые роли",
   "gui.watheextended.config.category.options.group.roles_options.opt.bodymaker.fakerole.desc": "Разрешить ли Манекенщику создавать тела с отключёнными ролями или ролями, которых фактически нет в текущей игре?",
   "gui.watheextended.config.category.options.group.roles_options.opt.cleaner.cooldown": "Перезарядка способности",
