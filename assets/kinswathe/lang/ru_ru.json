@@ -132,5 +132,20 @@
   "guidebook.role.description.kinswathe:taskmaster": "Тяжёлый труд окупается - доход Надсмотрщика привязан к заданиям.\n\nЕсли Надсмотрщик в команде убийц, за выполнение задания он получает 50 золотых монет.\n\nЕсли он в команде не-убийц, выполнение задания даёт дополнительные 25 золотых монет сверх обычной награды.",
   "guidebook.role.kinswathe:violator": "Нарушитель",
   "guidebook.role.title.kinswathe:violator": "Нарушитель правил",
-  "guidebook.role.description.kinswathe:violator": "Нарушитель нарушил самое фундаментальное правило в поезде - прыжки."
+  "guidebook.role.description.kinswathe:violator": "Нарушитель нарушил самое фундаментальное правило в поезде - прыжки.",
+  
+  "announcement.role.kinswathe.hacker": "Хакер",
+  "announcement.goals.kinswathe.hacker": "Пытается взломать весь поезд...",
+  "hud.kinswathe.hacker.target": "Взлом роли",
+  "hud.kinswathe.hacker.target_hacked": "Взлом роли завершён",
+  "hud.kinswathe.hacker.target_safe": "Не удалось взломать роль за безопасное время",
+  "item.kinswathe.icon_ability_cooldown_refresh": "Сброс перезарядки способности",
+  "item.kinswathe.icon_ability_cooldown_refresh.tooltip": "Сбрасывает перезарядку способности и Режима психа у всех убийц\nСрабатывает сразу после покупки, перезарядка 5 минут",
+  "tip.kinswathe.hacker.ability_cooldown_refresh": "Хакер сбросил для тебя перезарядку способности",
+  "item.kinswathe.icon_potion_effect_refresh": "Сброс эффекта зелья",
+  "item.kinswathe.icon_potion_effect_refresh.tooltip": "Снимает эффекты зелий у убийц\nСрабатывает сразу после покупки, перезарядка 3 минуты",
+  "tip.kinswathe.hacker.potion_effect_refresh": "Хакер снял с тебя эффект зелья",
+  "item.kinswathe.icon_weapon_cooldown_refresh": "Сброс перезарядки оружия",
+  "item.kinswathe.icon_weapon_cooldown_refresh.tooltip": "Сбрасывает перезарядку оружия у всех убийц\nСрабатывает сразу после покупки, перезарядка 5 минут",
+  "tip.kinswathe.hacker.weapon_cooldown_refresh": "Хакер сбросил для тебя перезарядку оружия"
 }
