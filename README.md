@@ -23,7 +23,7 @@ There are several installation options available:
 
 ![Example in game (2)](./screenshots/example-in-game-2.png)
 
-![Example in game (3)](./screenshots/example-in-game-3)
+![Example in game (3)](./screenshots/example-in-game-3.png)
 
 ![Pause Menu](./screenshots/pause-menu.png)
 
