@@ -509,5 +509,24 @@
   "gui.watheextended.guidebook.item.phone.desc": "Нажмите ПКМ, чтобы переключаться между глобальным голосовым чатом и голосовой группой только для убийц.",
   "gui.watheextended.guidebook.item.icon_ability_cooldown_refresh.desc": "Мгновенно сбрасывает перезарядку способностей всех убийц.",
   "gui.watheextended.guidebook.item.icon_potion_effect_refresh.desc": "Мгновенно обновляет или снимает активные эффекты зелий у всех убийц.",
-  "gui.watheextended.guidebook.item.icon_weapon_cooldown_refresh.desc": "Мгновенно сбрасывает перезарядку оружия всех убийц."
+  "gui.watheextended.guidebook.item.icon_weapon_cooldown_refresh.desc": "Мгновенно сбрасывает перезарядку оружия всех убийц.",
+  
+  "block.watheextended.tarnished_gold_panel": "Панель из потускневшего золота",
+  "block.watheextended.gold_panel": "Золотая панель",
+  "block.watheextended.pristine_gold_panel": "Панель из чистого золота",
+  "block.watheextended.black_hull_panel": "Панель из чёрного корпуса",
+  "block.watheextended.black_hull_sheets_panel": "Панель из листов чёрного корпуса",
+  "block.watheextended.metal_sheet_panel": "Панель из металлических листов",
+  "block.watheextended.stainless_steel_panel": "Панель из нержавеющей стали",
+  "block.watheextended.dark_steel_panel": "Панель из тёмной стали",
+  "block.watheextended.marble_tiles_panel": "Панель из мраморной плитки",
+  "block.watheextended.mahogany_planks_panel": "Панель из досок махагони",
+  "block.watheextended.mahogany_herringbone_panel": "Панель из махагони ёлочкой",
+  "block.watheextended.bubinga_planks_panel": "Панель из досок бубинги",
+  "block.watheextended.bubinga_herringbone_panel": "Панель из бубинги ёлочкой",
+  "block.watheextended.ebony_planks_panel": "Панель из досок эбенового дерева",
+  "block.watheextended.ebony_herringbone_panel": "Панель из эбенового дерева ёлочкой",
+  "block.watheextended.black_moquette": "Чёрный мокет",
+  "block.watheextended.green_moquette": "Зелёный мокет",
+  "block.watheextended.purple_moquette": "Фиолетовый мокет"
 }
