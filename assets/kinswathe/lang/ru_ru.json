@@ -147,5 +147,8 @@
   "tip.kinswathe.hacker.potion_effect_refresh": "Хакер снял с тебя эффект зелья",
   "item.kinswathe.icon_weapon_cooldown_refresh": "Сброс перезарядки оружия",
   "item.kinswathe.icon_weapon_cooldown_refresh.tooltip": "Сбрасывает перезарядку оружия у всех убийц\nСрабатывает сразу после покупки, перезарядка 5 минут",
-  "tip.kinswathe.hacker.weapon_cooldown_refresh": "Хакер сбросил для тебя перезарядку оружия"
+  "tip.kinswathe.hacker.weapon_cooldown_refresh": "Хакер сбросил для тебя перезарядку оружия",
+  "item.kinswathe.phone": "Телефон",
+  "item.kinswathe.phone.tooltip": "Нажмите ПКМ, чтобы переключаться между глобальным голосовым чатом и голосовой группой только для убийц."
+
 }
