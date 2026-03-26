@@ -27,4 +27,4 @@ There are several installation options available:
 
 ![Pause Menu](./screenshots/pause-menu.png)
 
-![Minigame Settings](./screenshots/gsettings-game-menu)
+![Minigame Settings](./screenshots/settings-game-menu.png)
