@@ -13,10 +13,18 @@ There are several installation options available:
 2. Установить с Modrinth [стабильный релиз](https://modrinth.com/resourcepack/thee-rus/versions)
 
 ## Screenshots/Скриншоты:
-![Guidebook role translation](./screenshots/guidebook-role-translation.png)
+![Roles translation (1)](./screenshots/roles-guidebook-translate-1.png)
 
-![Guidebook modifiers translation](./screenshots/guidebook-modifiers-translation.png)
+![Roles translation (2)](./screenshots/roles-guidebook-translate-2.png)
 
-![Pause Menu Screenshot (plus mods: Essential and Figura)](./screenshots/pause-menu-screenshot-essential-figura.png)
+![Modifications translate](./screenshots/modifications-guidebook-translate.png)
 
-![Game Mode Settings Screenshot](./screenshots/game-mode-settings-screenshot.png)
+![Example in game (1)](./screenshots/example-in-game-1.png)
+
+![Example in game (2)](./screenshots/example-in-game-2.png)
+
+![Example in game (3)](./screenshots/example-in-game-3)
+
+![Pause Menu](./screenshots/pause-menu.png)
+
+![Minigame Settings](./screenshots/gsettings-game-menu)
