@@ -5,8 +5,8 @@
   "block.starexpress.circuitweaver_plush": "Плюшевый Circuitweaver",
   "block.starexpress.jade_plush": "Плюшевая Jade",
   "item.starexpress.tape": "Скотч",
-  "item.starexpress.tape.tooltip.1": "Используйте на другом игроке, чтобы заглушить его жалкие крики.",
-  "item.starexpress.tape.tooltip.2": "Игроки с заклеенным ртом будут задыхаться, если слишком долго останутся снаружи.",
+  "item.starexpress.tape.tooltip.1": "Используйте на другом игроке, чтобы заглушить его жалкие крики (связать).",
+  "item.starexpress.tape.tooltip.2": "Игроки с заклеенным ртом будут задыхаться, если слишком долго останутся связанными.",
   "item.starexpress.tape.tooltip.3": "Невидим в руке.",
   "subtitles.starexpress.item.tape_apply": "Кто-то наклеивает скотч",
 
