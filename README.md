@@ -4,7 +4,7 @@ This repository contains an unofficial Russian translation of the [The Harpy Exp
 <details>
   <summary>Not exactly important, but...</summary>
 
-  <img src="./images/warn_icon.png" alt="!" height="75" width="22" /> Fixes for the built-in translation of the <a href="https://modrinth.com/mod/wathe">Wathe</a> mod will not be applied until you complete the following steps:
+  <img src="./images/icons/warn_icon.png" alt="!" height="75" width="22" /> Fixes for the built-in translation of the <a href="https://modrinth.com/mod/wathe">Wathe</a> mod will not be applied until you complete the following steps:
 
 1. Launch the modpack with [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides) and [YOSBR](https://modrinth.com/mod/yosbr) disabled.
 2. Open the `Resource Packs...` menu and move the translation above the `Fabric Mods` entry.
@@ -37,7 +37,7 @@ There are several installation options available:
 <details>
   <summary>Не совсем важно, но...</summary>
 
-  <img src="./images/warn_icon.png" alt="!" height="75" width="22" />
+  <img src="./images/icons/warn_icon.png" alt="!" height="75" width="22" />
 Исправления для встроенного перевода мода <a href="https://modrinth.com/mod/wathe">Wathe</a> не применятся, пока вы не выполните следующие действия:
 
 1. Запустите сборку с отключёнными модами [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides) и [YOSBR](https://modrinth.com/mod/yosbr).
