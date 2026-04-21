@@ -7,7 +7,7 @@ This repository contains an unofficial Russian translation of the [The Harpy Exp
 <table>
   <tr>
     <td valign="middle">
-      <img src="./images/warn_icon.png" alt="!" width="22" />
+      <img src="./images/icons/warn_icon.png" alt="!" width="22" />
     </td>
     <td valign="middle">
 	Fixes for the built-in translation of the <a href="https://modrinth.com/mod/wathe">Wathe</a> mod will not be applied until you complete the following steps:
@@ -49,7 +49,7 @@ There are several installation options available:
 <table>
   <tr>
     <td valign="middle">
-      <img src="./images/warn_icon.png" alt="!" width="22" />
+      <img src="./images/icons/warn_icon.png" alt="!" width="22" />
     </td>
     <td valign="middle">
       Исправления для встроенного перевода мода <a href="https://modrinth.com/mod/wathe">Wathe</a> не применятся, пока вы не выполните следующие действия:
