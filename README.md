@@ -65,7 +65,7 @@ There are several installation options available:
     ],
 ```
 
-Вместо `{Version}` укажите номер версии стабильной версии ресурспака, например `0.4` или `0.5`, либо, если вы используете rolling release, замените имя файла на `thee-rus-latest.zip`.
+Вместо `{Version}` укажите номер стабильной версии ресурспака, например `0.4` или `0.5`, либо, если вы используете rolling release, замените имя файла на `thee-rus-latest.zip`.
 
 </details>
 
