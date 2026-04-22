@@ -1,0 +1,4 @@
+## [EN]:
+This contains small fixes for the original Russian translation of the [Wathe](https://modrinth.com/mod/wathe) mod. However, it is not included in the main RP, because I do not yet know how to properly integrate it into the game without breaking the original translation. Still, if you want to apply these fixes, simply take the original Russian translation file and replace the necessary keys with the ones from this `ru_ru.json`.
+## [RU]:
+Тут содержатся маленькие правки в оригинальном русском переводе мода [Wathe](https://modrinth.com/mod/wathe), однако она не находится в основном RP, ведь я не знаю как нормально вкрутить его в игру, при этом не ломая оригинальный перевод. Однако, если хотите применить это, то просто возьмите файл оригинального русского перевода и замените нужные ключи из этого `ru_ru.json`.
