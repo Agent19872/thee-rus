@@ -1,9 +1,6 @@
 {
     "pack": {
-        "description": {
-            "translate": "thee_rus.agent19872.unofficial",
-            "fallback": "Неофициальный русский перевод для сборки The Harpy Express: Extended"
-        },
+        "description": "Неофициальный русский перевод для сборки The Harpy Express: Extended",
         "pack_format": 15,
         "min_format": 15,
         "max_format": 75,
