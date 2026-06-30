@@ -1,9 +1,6 @@
 {
     "pack": {
         "description": "Неофициальный русский перевод для сборки The Harpy Express: Extended",
-        "pack_format": 15,
-        "min_format": 15,
-        "max_format": 75,
-        "supported_formats": [15, 64]
+        "pack_format": 34,
     }
 }
