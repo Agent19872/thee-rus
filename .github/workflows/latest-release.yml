@@ -1,0 +1,42 @@
+name: Build latest resource pack
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "assets/**"
+      - "pack.mcmeta"
+      - "pack.png"
+      - "LICENSE"
+      - "Makefile"
+      - ".github/workflows/latest-release.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: latest-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build resource pack
+        run: make rp
+
+      - name: Update Latest release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: latest
+          name: Latest
+          body: Автоматическая актуальная сборка ресурспака.
+          artifacts: dist/thee-rus-latest.zip
+          allowUpdates: true
+          replacesArtifacts: true
+          makeLatest: true
