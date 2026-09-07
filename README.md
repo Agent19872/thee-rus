@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Agent19872/thee-rus/refs/heads/master/extra/logo/logo.svg)
+![](https://raw.githubusercontent.com/Agent19872/thee-rus/refs/heads/master/extra/logo/logo.png)
 
 ## 🇬🇧🇺🇸 English
 
