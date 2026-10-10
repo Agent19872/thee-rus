@@ -10,7 +10,7 @@
   "hud.stupid_express.arsonist.doused.true": "Облит",
   "hud.stupid_express.arsonist.doused.false": "Не облит",
   "item.stupid_express.jerry_can": "Канистра",
-  "item.stupid_express.jerry_can.tooltip": "Используйте на игроке, чтобы облить его маслом.",
+  "item.stupid_express.jerry_can.tooltip": "Используйте на игроке, чтобы облить его бензином.",
   "item.stupid_express.lighter": "Зажигалка",
   "item.stupid_express.lighter.tooltip": "Нет дыма без огня — значит, пришло время поджигать.\nКак только Зажигалка станет доступна, значит, вы облили достаточно игроков.\nИспользуйте её, чтобы поджечь всех уже облитых игроков.",
   "death_reason.stupid_express.failed_ignite": "ошибки при поджоге.",
