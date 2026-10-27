@@ -13,6 +13,69 @@
         "клмнопрстуф",
         "хцчшщъыьэюя"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/g_and_v_keys.png",
+      "ascent": 10,
+      "height": 14,
+      "chars": [
+        "\uE604\uE605"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/lmb.png",
+      "ascent": 10,
+      "height": 14,
+      "chars": [
+      "\uE600"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/rmb.png",
+      "ascent": 10,
+      "height": 14,
+      "chars": [
+      "\uE601"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/lmb.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+      "\uE610"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/rmb.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+      "\uE611"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/shift_key.png",
+      "ascent": 10,
+      "height": 14,
+      "chars": [
+        "\uE602"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/alt_key.png",
+      "ascent": 10,
+      "height": 14,
+      "chars": [
+        "\uE603"
+      ]
     }
   ]
 }
