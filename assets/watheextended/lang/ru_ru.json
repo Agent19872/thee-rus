@@ -311,7 +311,7 @@
   "gui.watheextended.config.category.roles.opt.morphling.cooldown.desc": "Перезарядка в секундах после окончания имитации, прежде чем его можно будет использовать снова.\n\n§6По умолчанию: §e60",
   "gui.watheextended.config.category.roles.opt.phantom.cancancelability.desc": "При включении Фантом может отменить свою активную невидимость, повторно нажав клавишу способности.\n\n§6По умолчанию: §aВключено",
   "gui.watheextended.config.category.roles.opt.phantom.duration.desc": "Длительность способности невидимости Фантома в секундах.\n\n§6По умолчанию: §e30",
-  "gui.watheextended.config.category.roles.opt.phantom.cooldown.desc": "Перезарядка в секундах после окончания невидимости, прежде чем его можно будет использовать снова.\n\n§6По умолчанию: §e0",
+  "gui.watheextended.config.category.roles.opt.phantom.cooldown.desc": "Перезарядка в секундах после окончания невидимости, прежде чем его можно будет использовать снова.\n\n§6По умолчанию: §e60",
   "gui.watheextended.config.category.roles.opt.voodoo.nonkillerdeaths": "Вуду при естественной смерти",
   "gui.watheextended.config.category.roles.opt.voodoo.nonkillerdeaths.desc": "Разрешает срабатывание Вуду при естественной смерти.\n\n§6По умолчанию: §cОтключено",
   "gui.watheextended.config.category.roles.opt.voodoo.shotlikeevil": "Считается злым при выстреле",
@@ -800,5 +800,18 @@
   "gui.watheextended.config.category.presets.override.confirm": "Сохранить текущую конфигурацию поверх пресета '%s'?\nВсе значения, сохранённые в этом пресете, будут заменены.",
   "gui.watheextended.hud.ability.vulture": "тел съедено",
   "gui.watheextended.hud.ability.dreamer": "снов собрано",
-  "gui.watheextended.guidebook.tab.filter": "Показывать только включённые параметры"
+  "gui.watheextended.guidebook.tab.filter": "Показывать только включённые параметры",
+  "gui.watheextended.config.category.roles.opt.physician.disabledeathreason": "Скрыть информацию о смерти",
+  "gui.watheextended.config.category.roles.opt.physician.disabledeathreason.desc": "Если включено, скрывает всю строку с информацией о смерти — включая причину и время — пока Врач осматривает мёртвое тело.\n\n§6По умолчанию:§r ",
+  "gui.watheextended.config.category.roles.opt.physician.medicalkitcountvisible": "Количество игроков для отображения аптечки",
+  "gui.watheextended.config.category.roles.opt.physician.medicalkitcountvisible.desc": "Минимальное количество игроков, при котором предмет выглядит как аптечка, а не как отмычка.\n\n§6По умолчанию:§r §e10",
+  "item.watheextended.copy_position": "Скопировать позицию",
+  "message.watheextended.copy_position": "Позиция скопирована в системный буфер обмена: %s",
+  "message.watheextended.copy_position.first": "Первая точка сохранена: %s",
+  "message.watheextended.copy_position.mode.box": "Включён режим области",
+  "message.watheextended.copy_position.mode.point": "Включён режим точки",
+  "command.watheextended.pronouns.set_other": "Местоимения игрока %s установлены: %s",
+  "gui.watheextended.config.category.roles.opt.amnesiac.keepsgamegoing": "Игра продолжается",
+  "gui.watheextended.config.category.roles.opt.amnesiac.keepsgamegoing.desc": "Если включено, игра не закончится, пока Амнезиак жив.\nЭто означает, что Амнезиак всё ещё может выбрать роль, даже если все Убийцы уже мертвы.\n\n§6По умолчанию:§r ",
+  "gui.watheextended.inventory.picker.page": "%1$d / %2$d"
 }
